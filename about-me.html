@@ -103,9 +103,7 @@
 					<script>
 					let allATags = document.querySelectorAll('a')
 					allATags.forEach(tag => {
-						if(tag.innerHTML === 'Home') {
-							return;
-						}
+						if(tag.innerHTML === 'Home') return;
 						tag.setAttribute('target', '_blank')
 					})
 					</script>

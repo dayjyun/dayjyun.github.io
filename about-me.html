@@ -94,7 +94,7 @@
                                     <ul class="icons">
                                         <li><a href="https://github.com/dayjyun" class="icon brands alt fa-github" title="GitHub" ><span class="label">GitHub</span></a></li>
                                         <li><a href="https://www.linkedin.com/in/kevinbarrios12" class="icon brands alt fa-linkedin" title="LinkedIn"><span class="label">LinkedIn</span></a></li>
-                                        <li><a href="https://angel.co/u/kbarrios" target="_blank" rel="noopener noreferrer" class="icon brands alt fa-angellist" title="AngelList"><span class="label">AngelList</a></li></span>
+                                        <li><a href="https://angel.co/u/kbarrios" class="icon brands alt fa-angellist" title="Wellfound (AngelList)"><span class="label">AngelList</a></li></span>
                                     </ul>
                             </section>
                             <p class="copyright">&copy; Kevin Barrios. All Rights Reserved</p>
@@ -102,7 +102,10 @@
 					</footer>
 					<script>
 					let allATags = document.querySelectorAll('a')
-					allATags.map(tag => {
+					allATags.forEach(tag => {
+						if(tag.innerHTML === 'Home') {
+							return;
+						}
 						tag.setAttribute('target', '_blank')
 					})
 					</script>

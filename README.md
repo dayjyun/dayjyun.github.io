@@ -1,17 +1,29 @@
 # Welcome
 
-Welcome to my portfolio repo! Take a look at my progression as a developer ove the years! Each project was approach excitement
+Welcome to my portfolio repository! Explore my journey as a developer throughout the years, witnessing my growth and progression. Every project I embarked on was fueled by excitement, curiosity, and numerous instances of confusion, but always ending with a sense of accomplishment.
 
-Take a look at the live site showcasing the majority of my accomplishments throughout my development career [KBarriosDev](https://kbarrios.dev/)
-
-The more
+Visit my published website showcasing the majority of my accomplishments throughout my development career, [KBarriosDev](https://kbarrios.dev/).
 
 ## General Assembly
+- SkyLight Frontend [GitHub](https://github.com/dayjyun/skylight-frontend)
+- SkyLight Backend [GitHub](https://github.com/dayjyun/skylight-backend)
+- Wayfarer [GitHub](https://github.com/EdgarJoell/wayfarer-project)
+- Job Board API [GitHub](https://github.com/dayjyun/job-board-api)
+- Rock Paper Scissors [GitHub](https://github.com/dayjyun/rps-project-java)
+- Tic-Tac-Toe [GitHub](https://github.com/dayjyun/tic-tac-toe)
 
-## App Academy
+### App Academy
 - Stack Spill [GitHub](https://github.com/dayjyun/stack-spill-project) | [Live Site](https://stack-spill.herokuapp.com/)
-- InstaPix [GitHub](https://github.com/dayjyun/instapix-project) |[Live Site](https://instapix.onrender.com/)
+- InstaPix [GitHub](https://github.com/dayjyun/instapix-project) | [Live Site](https://instapix.onrender.com/)
 - SoundCloud Clone [GitHub](https://github.com/dayjyun/SoundCloud-Project) | [Live Site](https://soundcloud-project.onrender.com/)
 
+### Other
+- Bash Shortcuts [GutHub](https://github.com/dayjyun/bash-shortcuts)
+- Google Books API [GitHub](https://github.com/dayjyun/google-books-api)
+- Receipt Processor [GitHub](https://github.com/dayjyun/receipt-processor-challenge)
+- Udemy's Guess My Number [GitHub](https://github.com/dayjyun/udemy-guess-my-number)
+- Udemy's Pig Game [GitHub](https://github.com/dayjyun/udemy-pig-game)
+
+
+##### Credits
 Portfolio was made with [Stellar](https://html5up.net/stellar) from [HTML5 UP](https://html5up.net/)
-html5up.net | @ajlkn

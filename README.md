@@ -1,31 +1,17 @@
-Stellar by HTML5 UP
+# Welcome
+
+Welcome to my portfolio repo! Take a look at my progression as a developer ove the years! Each project was approach excitement
+
+Take a look at the live site showcasing the majority of my accomplishments throughout my development career [KBarriosDev](https://kbarrios.dev/)
+
+The more
+
+## General Assembly
+
+## App Academy
+- Stack Spill [GitHub](https://github.com/dayjyun/stack-spill-project) | [Live Site](https://stack-spill.herokuapp.com/)
+- InstaPix [GitHub](https://github.com/dayjyun/instapix-project) |[Live Site](https://instapix.onrender.com/)
+- SoundCloud Clone [GitHub](https://github.com/dayjyun/SoundCloud-Project) | [Live Site](https://soundcloud-project.onrender.com/)
+
+Portfolio was made with [Stellar](https://html5up.net/stellar) from [HTML5 UP](https://html5up.net/)
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)

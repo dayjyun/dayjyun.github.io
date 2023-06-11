@@ -1,31 +1,27 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome
 
+Welcome to my portfolio repository! Explore my journey as a developer throughout the years, witnessing my growth and progression. Every project I embarked on was fueled by excitement, curiosity, and numerous instances of confusion, but always ending with a sense of accomplishment.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+Visit my published website showcasing the majority of my accomplishments throughout my development career. [KBarriosDev](https://kbarrios.dev/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### General Assembly
+- SkyLight Frontend [GitHub](https://github.com/dayjyun/skylight-frontend)
+- SkyLight Backend [GitHub](https://github.com/dayjyun/skylight-backend)
+- Wayfarer [GitHub](https://github.com/EdgarJoell/wayfarer-project)
+- Job Board API [GitHub](https://github.com/dayjyun/job-board-api)
+- Outer Space API [GitHub](https://github.com/dayjyun/outer-space-api)
+- Rock Paper Scissors [GitHub](https://github.com/dayjyun/rps-project-java)
+- Tic-Tac-Toe [GitHub](https://github.com/dayjyun/tic-tac-toe)
 
-(* = not included)
+### App Academy
+- Stack Spill [GitHub](https://github.com/dayjyun/stack-spill-project) | [Live Site](https://stack-spill.herokuapp.com/)
+- InstaPix [GitHub](https://github.com/dayjyun/instapix-project) | [Live Site](https://instapix.onrender.com/)
+- SoundCloud Clone [GitHub](https://github.com/dayjyun/SoundCloud-Project) | [Live Site](https://soundcloud-project.onrender.com/)
 
-AJ
-aj@lkn.io | @ajlkn
+### Other
+- Bash Shortcuts [GitHub](https://github.com/dayjyun/bash-shortcuts)
+- Google Books API [GitHub](https://github.com/dayjyun/google-books-api)
+- Receipt Processor [GitHub](https://github.com/dayjyun/receipt-processor-challenge)
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Credits
+Portfolio was made with [Stellar](https://html5up.net/stellar) from [HTML5 UP](https://html5up.net/)

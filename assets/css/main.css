@@ -3798,3 +3798,7 @@ input, select, textarea {
 .skylight {
 	object-fit: contain;
 }
+
+.full-stack-project {
+	object-fit: contain;
+}

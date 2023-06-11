@@ -2,9 +2,9 @@
 
 Welcome to my portfolio repository! Explore my journey as a developer throughout the years, witnessing my growth and progression. Every project I embarked on was fueled by excitement, curiosity, and numerous instances of confusion, but always ending with a sense of accomplishment.
 
-Visit my published website showcasing the majority of my accomplishments throughout my development career [KBarriosDev](https://kbarrios.dev/).
+Visit my published website showcasing the majority of my accomplishments throughout my development career. [KBarriosDev](https://kbarrios.dev/)
 
-## General Assembly
+### General Assembly
 - SkyLight Frontend [GitHub](https://github.com/dayjyun/skylight-frontend)
 - SkyLight Backend [GitHub](https://github.com/dayjyun/skylight-backend)
 - Wayfarer [GitHub](https://github.com/EdgarJoell/wayfarer-project)
